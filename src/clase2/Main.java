@@ -1,3 +1,5 @@
+package clase2;
+
 public class Main{
     public static void main(String[] args) {
 
@@ -40,8 +42,6 @@ public class Main{
         Double numero4 = 2d;
         Boolean isTrue = true;
 
-
-
         //buenas practicas al definir variables
         String segundoNombre;
         boolean isGenius;
@@ -70,8 +70,6 @@ public class Main{
         //************************************************
 
 
-
-
         //Metodos de la clase String
         String texto = "hola universo";
         String texto2 ="";
@@ -98,9 +96,6 @@ public class Main{
         System.out.println("valorEnString es: " + valorEnString);
         int comparacion = valorComparar2.compareTo(250); //Compara un integer con otro valor numerico (-1, 0 , 1)
         System.out.println(comparacion);
-
-
-        //Casting y parseo de variables
 
     }
 }
