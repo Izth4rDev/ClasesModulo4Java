@@ -20,7 +20,7 @@ public class Person {
     }
     //retornan valor
     public String sendMessage(String userName){
-       return "Hola user: "+ userName + " me llamo" + name;
+      return "Hola user: "+ userName + " me llamo" + name;
     }
 
     //Metodos de tipo static o estatico
